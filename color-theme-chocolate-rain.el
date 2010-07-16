@@ -146,6 +146,7 @@
           `(org-level-2 ((t (:foreground ,choco-fg))))
           `(org-link ((t (:foreground ,choco-purple-0))))
           `(org-todo ((t (:foreground ,choco-red-0))))
+          `(persp-selected-face ((t (:foreground ,choco-bg))))
           `(py-builtins-face ((t (:foreground ,choco-purple-0))))
           `(py-decorators-face ((t (:foreground ,choco-red-0))))
           `(py-pseudo-keyword-face ((t (:foreground ,choco-blue-0))))
