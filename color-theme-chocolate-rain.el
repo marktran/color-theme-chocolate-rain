@@ -47,6 +47,8 @@
           `(dired-directory ((t (:foreground ,choco-green-0))))
           `(dired-header ((t (:foreground ,choco-brown-0))))
           `(dired-ignored ((t (:foreground ,choco-gray-0))))
+          `(diredp-deletion ((t (:foreground ,choco-yellow-0 :background ,choco-red-0))))
+          `(diredp-deletion-file-name ((t (:foreground ,choco-red-0))))
           `(diredp-inode+size ((t (:foreground ,choco-purple-0))))
           `(diredp-ignored-file-name ((t (:foreground ,choco-gray-0))))
           `(diredp-date-time ((t (:foreground ,choco-fg))))
