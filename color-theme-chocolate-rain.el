@@ -172,6 +172,7 @@
           `(show-paren-match-face ((t (:background ,choco-gray-2))))
           `(show-paren-mismatch-face ((t (:background ,choco-blue-0))))
           `(smerge-refined-change ((t (:background ,choco-yellow-0))))
+          `(viper-minibuffer-insert ((t (:background ,choco-bg))))
           `(w3m-anchor ((t (:foreground ,choco-blue-0))))
           `(w3m-arrived-anchor ((t (:foreground ,choco-red-0))))
           `(w3m-image ((t (:foreground ,choco-green-1))))
