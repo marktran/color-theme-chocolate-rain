@@ -41,7 +41,7 @@
           `(ack-line ((t (:foreground ,choco-yellow-0))))
           `(ack-match ((t (:underline t :foreground ,choco-red-0 :background ,choco-bg))))
           `(comint-highlight-input ((t (:foreground ,choco-fg))))
-          `(comint-highlight-prompt ((t (:foreground ,choco-blue-0))))
+          `(comint-highlight-prompt ((t (:foreground ,choco-red-0))))
           `(compilation-error ((t (:foreground ,choco-red-0))))
           `(compilation-info ((t (:foreground ,choco-brown-3))))
           `(compilation-line-number ((t (:foreground ,choco-green-0))))
