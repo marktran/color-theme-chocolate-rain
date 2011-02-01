@@ -89,6 +89,7 @@
           `(erc-prompt-face ((t (:foreground ,choco-fg))))
           `(erc-timestamp-face ((t (:foreground ,choco-fg))))
           `(escape-glyph ((t (:foreground ,choco-blue-0))))
+          `(eshell-ls-archive ((t (:foreground ,choco-purple-0))))
           `(eshell-ls-directory ((t (:foreground ,choco-green-0))))
           `(eshell-ls-executable ((t (:foreground ,choco-red-0))))
           `(eshell-ls-missing ((t (:foreground ,choco-red-1))))
