@@ -44,7 +44,7 @@
           `(bold ((t (:bold t :foreground ,choco-yellow-2))))
           `(comint-highlight-input ((t (:foreground ,choco-fg))))
           `(comint-highlight-prompt ((t (:foreground ,choco-red-0))))
-          `(compilation-error ((t (:foreground ,choco-red-0))))
+          `(compilation-error ((t (:foreground ,choco-red-1))))
           `(compilation-info ((t (:foreground ,choco-brown-3))))
           `(compilation-line-number ((t (:foreground ,choco-green-0))))
           `(compilation-warning ((t (:foreground ,choco-red-0))))
