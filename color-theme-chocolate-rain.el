@@ -8,8 +8,8 @@
 (defvar choco-bg "#1a0f0b")
 
 (defvar choco-black "#000000")
-(defvar choco-blue-0 "#5f9ea0")
-(defvar choco-blue-1 "#8a9a95")
+(defvar choco-blue-0 "#8a9a95")
+(defvar choco-blue-1 "#5f9ea0")
 (defvar choco-brown-0 "#b3935c")
 (defvar choco-brown-1 "#9b703f")
 (defvar choco-brown-2 "#a18764")
