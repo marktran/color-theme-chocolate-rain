@@ -46,7 +46,7 @@
           `(comint-highlight-input ((t (:foreground ,choco-fg))))
           `(comint-highlight-prompt ((t (:foreground ,choco-red-0))))
           `(compilation-error ((t (:foreground ,choco-red-1))))
-          `(compilation-info ((t (:foreground ,choco-brown-3))))
+          `(compilation-info ((t (:foreground ,choco-purple-0))))
           `(compilation-line-number ((t (:foreground ,choco-yellow-2))))
           `(compilation-warning ((t (:foreground ,choco-red-0))))
           `(css-property ((t (:foreground ,choco-brown-2))))
