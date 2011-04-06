@@ -128,6 +128,7 @@
           `(gnus-summary-selected ((t (:foreground ,choco-purple-0))))
           `(header-line ((t (:foreground ,choco-fg))))
           `(highlight ((t (:background ,choco-gray-2))))
+          `(highlight-indent-face ((t (:background ,choco-brown-4))))
           `(hl-line ((t (:background ,choco-brown-4))))
           `(ido-first-match ((t (:foreground ,choco-green-1))))
           `(ido-incomplete-regexp ((t (:foreground ,choco-green-2))))
