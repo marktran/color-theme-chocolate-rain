@@ -159,7 +159,7 @@
           `(message-separator ((t (:foreground ,choco-blue-0))))
           `(minibuffer-prompt ((t (:foreground ,choco-fg))))
           `(mode-line ((t (:foreground ,choco-black :background ,choco-purple-0))))
-          `(mode-line-highlight ((t (:foreground ,choco-brown-3))))
+          `(mode-line-highlight ((t (:foreground ,choco-yellow-2))))
           `(mode-line-inactive ((t (:foreground ,choco-fg :background ,choco-brown-4))))
           `(mumamo-background-chunk-submode1 ((t (:background ,choco-bg))))
           `(org-block ((t (:foreground ,choco-fg))))
