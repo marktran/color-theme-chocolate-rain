@@ -51,6 +51,7 @@
           `(compilation-warning ((t (:foreground ,choco-red-0))))
           `(css-property ((t (:foreground ,choco-brown-2))))
           `(css-selector ((t (:foreground ,choco-green-0))))
+          `(csv-separator-face ((t (:foreground ,choco-red-1))))
           `(diff-added ((t (:foreground ,choco-green-0))))
           `(diff-file-header ((t (:foreground ,choco-red-0 :background ,choco-bg))))
           `(diff-header ((t (:background ,choco-bg))))
