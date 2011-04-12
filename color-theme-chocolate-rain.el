@@ -95,6 +95,8 @@
           `(eshell-ls-directory ((t (:foreground ,choco-green-0))))
           `(eshell-ls-executable ((t (:foreground ,choco-red-0))))
           `(eshell-ls-missing ((t (:foreground ,choco-red-1))))
+          `(eshell-ls-readonly ((t (:foreground ,choco-red-1))))
+          `(eshell-ls-special ((t (:foreground ,choco-yellow-2))))
           `(eshell-ls-symlink ((t (:foreground ,choco-purple-0))))
           `(eshell-prompt ((t (:foreground ,choco-red-0))))
           `(flymake-errline ((t (:background ,choco-bg))))
