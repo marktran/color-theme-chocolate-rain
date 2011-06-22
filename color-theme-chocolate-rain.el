@@ -153,6 +153,7 @@
           `(magit-branch ((t (:foreground ,choco-fg))))
           `(magit-diff-add ((t (:foreground ,choco-green-0))))
           `(magit-diff-del ((t (:foreground ,choco-red-0))))
+          `(magit-diff-none ((t (:foreground ,choco-fg))))
           `(magit-item-highlight ((t (:background ,choco-brown-4))))
           `(magit-section-title ((t (:foreground ,choco-purple-0))))
           `(markdown-header-face-1 ((t (:foreground ,choco-purple-0))))
