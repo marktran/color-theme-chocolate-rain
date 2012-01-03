@@ -156,6 +156,7 @@
           `(magit-diff-none ((t (:foreground ,choco-fg))))
           `(magit-item-highlight ((t (:background ,choco-brown-4))))
           `(magit-section-title ((t (:foreground ,choco-purple-0))))
+          `(magit-whitespace-warning-face ((t (:background ,choco-red-0))))
           `(markdown-header-face-1 ((t (:foreground ,choco-purple-0))))
           `(markdown-header-face-2 ((t (:foreground ,choco-red-0))))
           `(markdown-list-face ((t (:foreground ,choco-yellow-2))))
